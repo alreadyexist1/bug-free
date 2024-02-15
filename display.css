@@ -1,0 +1,37 @@
+
+.table{
+        border: 1px solid;
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+      
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+.container {
+    margin: 20px;
+}
+
+    .add {
+        background-color: #4CAF50; /* Green background color */
+        border: none; /* Remove borders */
+        color: rgb(7, 7, 7); /* White text color */
+        padding: 10px 20px; /* Add some padding */
+        text-align: center; /* Center text */
+        text-decoration: none; /* Remove underline */
+        display: inline-block; /* Make it an inline block element */
+        font-size: 16px; /* Set font size */
+        margin: 4px 2px; /* Add some margin */
+        cursor: pointer; /* Add a pointer cursor on hover */
+        border-radius: 5px; /* Optional: Add some border-radius */
+    }
+
+    .add:hover {
+        background-color: #45a049; /* Darker green color on hover */
+    }
+
+    /* Update button styles */
+   
